@@ -8,7 +8,7 @@ This is a simple student management system written in C.
 - Display student list
 - Search student by ID
 - Delete student by ID
-- Sort students by GPA
+- Sort students by ID
 - Save and load student list from file
 - Console-based menu
 
